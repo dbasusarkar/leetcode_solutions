@@ -1,4 +1,4 @@
-## Solutions to Selected LeetCode Problems in Java
+## Solutions to Selected LeetCode Problems in Java & Python (TBA)
 
 ---
 
@@ -157,7 +157,7 @@
 <details> 
 <summary> Medium (Expand/Collapse) </summary> 
 
-    Main/src/com/leetcode
+    Main/src/com/leetcode/java/
     └── medium
         ├── [LC# 721] accounts_merge [***Grind75-Graph-7/10, +++H-Graph, +++H-Union-Find-or-Disjoint-Set]
         │   └── Solution.java
@@ -278,7 +278,7 @@
 <details> 
 <summary> Hard (Expand/Collapse) </summary> 
 
-    Main/src/com/leetcode
+    Main/src/com/leetcode/java/
     └── hard
         ├── [LC# 269] alien_dictionary [+++H-Graph]
         │   └── Solution.java
