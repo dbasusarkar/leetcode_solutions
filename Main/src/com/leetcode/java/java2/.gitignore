@@ -1,8 +1,0 @@
-# Ignore specific subdirectories
-/out
-/test
-/Main/src/com/leetcode/test
-
-# Skip IDE-specific files
-*.iml
-.idea
