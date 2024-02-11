@@ -25,7 +25,7 @@
 <details> 
 <summary> Easy (Expand/Collapse) </summary> 
 
-    Main/src/com/leetcode
+    Main/src/com/leetcode/java/
     └── easy
         ├── [LC# 67] add_binary [***Grind75-Binary-1/1]
         │   └── Solution.java
