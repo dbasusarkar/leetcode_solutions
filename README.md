@@ -1,4 +1,4 @@
-## Solutions to Selected LeetCode Problems in Java & Python (TBA)
+## Solutions to Selected LeetCode Problems in Java & Python
 
 ---
 
