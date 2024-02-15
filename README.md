@@ -8,6 +8,7 @@
     + _Hard:_ **12**
 
 - Recommended JDK: **Java 17** (unless otherwise noted in the class file)
+- Recommended Python Version: **Python 3.10** (unless otherwise noted)
 
 <br/>
 
