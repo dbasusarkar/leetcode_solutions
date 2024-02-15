@@ -1,19 +1,14 @@
 from typing import List
+import math
 
 
 class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        largest_sum = -math.inf
+        sum = 0
 
+        for num in nums: 
+            sum = max(num, sum + num)
+            largest_sum = max(sum, largest_sum)
 
-    def twoSum(cls, nums: List[int], target: int) -> List[int]:
-
-        num_dictionary = {}        
-
-        for idx in range(len(nums)):
-            num2 = target - nums[idx] 
-
-            if num2 in num_dictionary:
-                return [idx, num_dictionary[num2]]
-
-            num_dictionary[nums[idx]] = idx
-                
-
+        return largest_sum
